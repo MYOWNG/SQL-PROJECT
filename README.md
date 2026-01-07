@@ -71,7 +71,7 @@ WHERE Category = 'Clothing' OR Category = 'Footwear';
 
 ### Question 5: Gray items of size M
 
-```sql
+```sql 
 SELECT *
 FROM task.trendora
 WHERE Color = 'Gray' AND Size = 'M';
