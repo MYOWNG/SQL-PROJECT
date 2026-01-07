@@ -1,6 +1,6 @@
 # SQL-PROJECT
 
-# Trendora SQL Queries Practice
+# Trendora SQL Queries
 
 ## 📌 Project Overview
 
