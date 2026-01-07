@@ -9,7 +9,7 @@ This repository contains a set of **basic to intermediate SQL queries** written 
 * Data retrieval using `SELECT`
 * Filtering records with `WHERE`
 * Logical operators (`AND`, `OR`, `IN`, `BETWEEN`, `NOT LIKE`)
-* Sorting results with `ORDER BY`
+* Sorting results with `ORDER BY` 
 * Limiting results using `LIMIT` and `OFFSET`
 
 This project is ideal for **SQL beginners**, data analyst trainees, and anyone practicing querying transactional datasets.
